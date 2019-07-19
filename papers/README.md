@@ -8,7 +8,7 @@ Papers description follow
 <h3>Ontology</h3>
 </div>
 
-- Stuart J. Chalk, (2016). <a href = "https://github.com/faber6911/meetology/blob/master/paper/SciData%20a%20data%20model%20and%20ontology%20for%20semantic%20representation%20of%20scientific%20data.pdf"><strong>"SciData: a data model and ontology for semantic representation of scientific data"</strong></a>, Journal of Cheminformatics, 8 (1), 1.
+- Stuart J. Chalk, (2016). <strong>"SciData: a data model and ontology for semantic representation of scientific data"</strong>, Journal of Cheminformatics, 8 (1), 1.
 
 
 <p>Article about the use of JSON-LD in creating an ontology for scientific data, in particular chemistry.</p>
