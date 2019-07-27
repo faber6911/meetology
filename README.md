@@ -31,7 +31,7 @@ All the references for this project are available in the <a href = "https://gith
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
 
-The slides for our project presentation are available <a href = "https://github.com/faber6911/meetology/tree/master/slides">here</a>.
+The slides for our project presentation are available <a href = "https://github.com/faber6911/meetology/blob/master/slides/meetology%20slides.pdf">here</a>.
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
