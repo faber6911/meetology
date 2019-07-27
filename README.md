@@ -26,12 +26,12 @@ Our project is divided into three phases:
 
 <a name="references"></a>
 ## &#9741; &nbsp; References
-All the references for this project are available in <a href = "https://github.com/faber6911/meetology/tree/master/paper">paper</a> folder.
+All the references for this project are available in the <a href = "https://github.com/faber6911/meetology/tree/master/papers">papers</a> folder.
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
 
-The slides for our project presentation are available <a href = "https://github.com/faber6911/meetology/tree/master/slides">here</a>.
+The slides for our project presentation are available <a href = "https://github.com/faber6911/meetology/blob/master/slides/meetology%20slides.pdf">here</a>.
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
